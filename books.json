@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "type": "Roman",
+    "description": "L’histoire de Jean Valjean, un ancien forçat en quête de rédemption.",
+    "quantity": 10,
+    "image": "https://example.com/images/les-miserables.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Notre-Dame de Paris",
+    "author": "Victor Hugo",
+    "type": "Roman historique",
+    "description": "Une tragédie autour de la cathédrale de Paris, avec Esmeralda et Quasimodo.",
+    "quantity": 8,
+    "image": "https://example.com/images/notre-dame.jpg"
+  },
+  {
+    "id": 3,
+    "title": "L’Homme qui rit",
+    "author": "Victor Hugo",
+    "type": "Roman",
+    "description": "Gwynplaine, un homme défiguré, devient un symbole de critique sociale.",
+    "quantity": 6,
+    "image": "https://example.com/images/homme-qui-rit.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Le Dernier Jour d’un Condamné",
+    "author": "Victor Hugo",
+    "type": "Roman engagé",
+    "description": "Un plaidoyer contre la peine de mort à travers les pensées d’un condamné.",
+    "quantity": 5,
+    "image": "https://example.com/images/dernier-jour-condamne.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Claude Gueux",
+    "author": "Victor Hugo",
+    "type": "Nouvelle",
+    "description": "Une œuvre dénonçant les injustices sociales et carcérales.",
+    "quantity": 7,
+    "image": "https://example.com/images/claude-gueux.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Les Travailleurs de la Mer",
+    "author": "Victor Hugo",
+    "type": "Roman",
+    "description": "Une lutte contre la mer, incarnant le courage et la solitude humaine.",
+    "quantity": 4,
+    "image": "https://example.com/images/travailleurs-mer.jpg"
+  },
+  {
+    "id": 7,
+    "title": "La Légende des siècles",
+    "author": "Victor Hugo",
+    "type": "Poésie",
+    "description": "Une série de poèmes retraçant l’histoire de l’humanité.",
+    "quantity": 9,
+    "image": "https://example.com/images/legende-siecles.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Les Contemplations",
+    "author": "Victor Hugo",
+    "type": "Poésie",
+    "description": "Un recueil lyrique autour du deuil, de l’amour et de la nature.",
+    "quantity": 3,
+    "image": "https://example.com/images/contemplations.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Choses vues",
+    "author": "Victor Hugo",
+    "type": "Journal",
+    "description": "Un regard sur les événements historiques et politiques du 19e siècle.",
+    "quantity": 2,
+    "image": "https://example.com/images/choses-vues.jpg"
+  }
+]
