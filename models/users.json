@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "meriem",
+    "password": "admin123",
+    "role": "admin",
+    "email": "meriem@example.com",
+    "address": "Casablanca",
+    "preferences": [],
+    "token": ""
+  },
+  {
+    "id": 2,
+    "username": "bouchra",
+    "password": "user123",
+    "role": "client",
+    "email": "bouchra@example.com",
+    "address": "Rabat",
+    "preferences": [],
+    "token": ""
+  },
+  {
+    "id": 3,
+    "username": "aya",
+    "password": "user123",
+    "role": "client",
+    "email": "aya@example.com",
+    "address": "Fès",
+    "preferences": [],
+    "token": ""
+  },
+  {
+    "id": 1751091625768,
+    "username": "janate",
+    "password": "12345",
+    "email": "janat@gmail.com",
+    "address": "casablanca",
+    "role": "client",
+    "preferences": [],
+    "token": ""
+  }
+]
